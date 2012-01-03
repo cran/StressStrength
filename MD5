@@ -1,0 +1,10 @@
+ba9bf1064e766952e5576aa73d6a33f9 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+af43747c6bc059d582dda4675c155ca4 *R/SSR.R
+34dd0f4bc829f965c4863681696c4637 *R/estSSR.R
+c620eedd7e23726738a5319a1e616445 *R/gkf.R
+206ee19bc35e69b9898dd732364acea3 *doc/StressStrength-manual.pdf
+80eabe7386fc7b634d78b1713bd220ef *man/SSR.Rd
+f7deb4b0b2e520a46c8a48c7067c76e7 *man/StressStrength-package.Rd
+5e1a17ba7b4b0b47e8b2d1a2688fd2b3 *man/estSSR.Rd
+828320895899912b5414560b3a9a9629 *man/gkf.Rd
