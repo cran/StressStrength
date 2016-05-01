@@ -3,17 +3,17 @@
 \alias{StressStrength}
 \docType{package}
 \title{
-Computation and sample estimation of reliability of stress-strength models
+Computation and Sample Estimation of Reliability of Stress-Strength Models
 }
 \description{
-The package provides functions for computing the reliability of stress-strength models and for building two-side or one-side confidence intervals according to different approximate procedures
+Reliability of (normal) stress-strength models and for building two-side or one-side confidence intervals according to different approximate procedures.
 }
 \details{
 \tabular{ll}{
 Package: \tab StressStrength\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-01-03\cr
+Version: \tab 1.0.2\cr
+Date: \tab 2016-04-29\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }

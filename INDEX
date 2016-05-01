@@ -1,0 +1,9 @@
+SSR                     Computation of reliability of stress-strength
+                        models
+StressStrength-package
+                        Computation and sample estimation of
+                        reliability of stress-strength models
+estSSR                  Sample estimation of reliability of
+                        stress-strength models
+gkf                     Numerical solution for an equation involving
+                        noncentral T cdf
